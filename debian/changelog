@@ -1,3 +1,9 @@
+deepin-log-viewer (6.5.3) unstable; urgency=medium
+
+  * Remove the combox automation tag 
+
+ -- Liu zheng <liuzheng@uniontech.com>  Tue, 03 Dec 2024 08:38:24 +0800
+
 deepin-log-viewer (6.5.2) unstable; urgency=medium
 
   * adapt compact mode 
